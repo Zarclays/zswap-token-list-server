@@ -1,4 +1,7 @@
-# Express API Starter with Typescript
+# ZSWAP Token List - Express API Starter with Typescript
+
+## Token List
+Tokenlist is @ /api/v1/tokens
 
 How to use this template:
 
