@@ -1,5 +1,5 @@
 import express from 'express';
-import all from '../token-files/tokens.json';
+import all from '../token-files/zswap-default.tokenlist.json';
 
 const router = express.Router();
 
